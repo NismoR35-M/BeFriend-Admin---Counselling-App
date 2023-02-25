@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconLocation">
+        <ignore path="src/main/res/drawable/avatar.png" />
+        <ignore path="src/main/res/drawable/group.jpg" />
+        <ignore path="src/main/res/drawable/group_ic.png" />
+        <ignore path="src/main/res/drawable/logo.png" />
+        <ignore path="src/main/res/drawable/logout.png" />
+        <ignore path="src/main/res/drawable/mail.png" />
+        <ignore path="src/main/res/drawable/one.png" />
+        <ignore path="src/main/res/drawable/party.png" />
+        <ignore path="src/main/res/drawable/stories.png" />
+        <ignore path="src/main/res/drawable/two.png" />
+        <ignore path="src/main/res/drawable/user.png" />
+    </issue>
+</lint>

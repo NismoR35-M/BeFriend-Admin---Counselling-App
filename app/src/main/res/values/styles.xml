@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Day application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">#fff</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="layoutcolor">#fff</item>
+        <item name="selectedcolor">@color/colorPrimary</item>
+        <item name="defaultcolor">#7F0047AB</item>
+        <item name="backgroundcolor">#F0F2F6</item>
+        <item name="texttwocolor">#5B5B5E</item>
+        <item name="textcolor">#040404</item>
+        <item name="menucolor">#fff</item>
+        <item name="android:statusBarColor" tools:ignore="NewApi">#fff</item>
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">true</item>
+    </style>
+
+    <!--  Night application theme.  -->
+
+    <!-- ProgressBar -->
+    <style name="AppTheme.WhiteAccent">
+        <item name="colorAccent">#fff</item>
+    </style>
+
+    <!-- SplashScreen theme. -->
+
+    <!-- SplashScreen theme. -->
+
+    <!-- Dialog theme. -->
+
+
+    <!-- Tab theme. -->
+
+</resources>
