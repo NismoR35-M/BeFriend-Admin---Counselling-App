@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BeFriendAdmin</string>
+
+    <string name="phone_no">Phone no.</string>
+    <string name="please_enter_your_phone_no">Please enter your phone no.</string>
+    <string name="generate_otp">Generate OTP</string>
+    <string name="please_enter_6_digit_otp">Please enter 6 digit OTP</string>
+    <string name="_6_digit_otp">6 Digit OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="search">Search…</string>
+    <string name="groups">Groups</string>
+    <string name="users">Users</string>
+    <string name="nothing_found">Nothing Found</string>
+    <string name="watch_party">Watch Party</string>
+    <string name="online">Online</string>
+
+</resources>
