@@ -193,7 +193,7 @@ public class AdapterGroupsList extends RecyclerView.Adapter<AdapterGroupsList.My
                             public Map<String, String> getHeaders() {
                                 Map<String, String> headers = new HashMap<>();
                                 headers.put("Content-Type", "application/json");
-                                headers.put("Authorization", "key= AAAAMgRWZgs:APA91bHfpwh9jSIw0pqiFX9IPXhVL_woD5U4PsZAedUpOVgrpqV7IRvamJr2xtjdwcwxVdrmOigBP4SxRr4gk7u6cz83zSutL0Gypp8Olpfn2YjiSpISrM664xjSU3eS6qp7l12Ksylf");
+                                headers.put("Authorization", "key=FIREBASE_AUTH_KEY_MESSAGING");
                                 return headers;
                             }
                         };
